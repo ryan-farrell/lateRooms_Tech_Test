@@ -1,0 +1,37 @@
+[
+{
+    "name": "hotelone",
+    "starRating": 5,
+    "facilities": ["car park", "pool", "sauna", "gym"],
+    "location": "Manchester",
+    "refNo": 1
+},
+{
+    "name": "hoteltwo",
+    "starRating": 3,
+    "facilities": ["car park", "gym"],
+    "location": "Edinburgh",
+    "refNo": 2
+},
+{
+    "name": "hotelthree",
+    "starRating": 4,
+    "facilities": ["car park", "pool", "sauna"],
+    "location": "Rome",
+    "refNo": 3
+},
+{
+    "name": "hotelfour",
+    "starRating": 3,
+    "facilities": ["gym","pool"],
+    "location": "Madrid",
+    "refNo": 4
+},
+{
+    "name": "hotelfive",
+    "starRating": 2,
+    "facilities": ["car park"],
+    "location": "London",
+    "refNo": 5
+}
+]
